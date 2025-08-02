@@ -27,5 +27,5 @@ This clone replicates the core layout and features of Spotify's web player, allo
 ---
 
 ## 📷 Screenshot
-![Screenshot](img/Screenshot 2025-08-02 203011.png)
+![Screenshot](img/ss.png)
 
