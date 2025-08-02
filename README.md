@@ -6,10 +6,6 @@ This clone replicates the core layout and features of Spotify's web player, allo
 
 ---
 
-# 🔗 URL
-
----
-
 ## 🔥 Features
 
 - 🎵 Hardcoded playlist with real song names and artists  
@@ -28,5 +24,8 @@ This clone replicates the core layout and features of Spotify's web player, allo
 - CSS3 (with utility classes)
 - JavaScript (ES6+)
 
+---
 
+## 📷 Screenshot
+![Screenshot](img/Screenshot 2025-08-02 203011.png)
 
