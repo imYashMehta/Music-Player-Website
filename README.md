@@ -26,6 +26,9 @@ This clone replicates the core layout and features of Spotify's web player, allo
 
 ---
 
-## 📷 Screenshot
-![Screenshot](img/ss.png)
+## 📽️ DEMO 
+<video src="Web Player-Music for everyone.mp4" controls width="600"></video>
+
+
+
 
