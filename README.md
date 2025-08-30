@@ -31,4 +31,8 @@ This clone replicates the core layout and features of Spotify's web player, allo
 
 
 
+https://github.com/user-attachments/assets/27cad009-ee7a-4e18-91b3-52f3c5b237eb
+
+
+
 
